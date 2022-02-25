@@ -3,7 +3,9 @@
 ## Setup
 
 1. Install requirements files
-    > python -m pip install -r requirements.txt
+    ```
+    python -m pip install -r requirements.txt
+    ```
 
 2. Create .env and add this line in .env
     ```
@@ -11,8 +13,10 @@
     ```
 
 3. Run music bot
-    > python bot.py
-
+    ```
+    python bot.py
+    ```
+    
 ## Command
 
 - **!join**
